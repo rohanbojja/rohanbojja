@@ -1,33 +1,24 @@
-# Hi, I'm Rohan Bojja 👋
+# Rohan Bojja
 
-**Technical Lead & Full-Stack Engineer** building scalable systems at high-growth startups.
+Technical Lead at CubeHQ building AI systems, developer tools, and backend platforms.
 
-**Languages**: TypeScript, Rust, Go, Java  
-**Cloud & Backend**: AWS, Docker, Node.js, PostgreSQL, Redis, MongoDB  
-**Specialties**: Microservices, AI/ML pipelines, Graph databases, Performance optimization
+Most of my current product work lives in private repositories. The projects below are the best public snapshot of how I build.
 
-## 💼 Experience
+## Selected Work
 
-**Technical Lead @ CubeHQ** (2024-present)  
-- Scaled revenue $500k→$1.6M through AI pipeline architecture
-- Built campaign management systems doubling user engagement
+- [OttoBot](https://github.com/rohanbojja/ottobot) - Interactive coding agent platform with persistent sessions, chat, and live VNC execution.
+- [codex-proxy](https://github.com/rohanbojja/codex-proxy) - Proxy for the OpenAI Responses API with local development and integration support.
+- [fishex](https://github.com/rohanbojja/fishex) - Fish shell plugin that turns inline comments into Codex rewrite instructions.
+- [monkey-lang-rs](https://github.com/rohanbojja/monkey-lang-rs) - Rust interpreter for the Monkey programming language.
+- [compose-ecs](https://github.com/rohanbojja/compose-ecs) - Tooling for deploying Docker Compose applications to Amazon ECS.
+- [audient-flask](https://github.com/rohanbojja/audient-flask) - REST API for audio feature extraction and genre prediction.
 
-**Software Engineer @ Prismforce** (2022-2024)  
-- Core team scaling $100k→$10M revenue
-- Built Neo4j talent matching, Rust lambdas, A/B testing platform
+## Focus
 
-## 🔬 Current Projects
+- AI agents and developer tooling
+- Backend systems and product infrastructure
+- Rust, TypeScript, Go, Python, and Swift
 
-- **Product Analytics Platform**: A/B testing, engagement tracking, launch insights
-- **LLM Diagrams**: AI-powered diagramming with MCP integration
+## Links
 
-## 📫 Connect
-
-- **Website**: [rohanbojja.com](https://rohanbojja.com)
-- **Resume**: [resume](https://rohanbojja.com/resume.pdf)
-- **Email**: rohanbojja@icloud.com
-- **Location**: Bangalore/Hyderabad, India
-
----
-
-*Building the future, one scalable system at a time* ⚡
+- Website: [rohanbojja.com](https://rohanbojja.com)
