@@ -18,7 +18,7 @@ Most of my recent work lives in private repositories, so this profile is intenti
 
 ## Interests
 
-- Zig, Rust, TypeScript, Swift, Go, and Python
+- TypeScript, Zig, Rust, Swift, and Python
 - HTTP services, agent runtimes, developer tools, and local-first workflows
 - clear interfaces, small abstractions, and systems that are easy to test and operate
 
