@@ -6,9 +6,9 @@ Most of my recent work lives in private repositories, so this profile is intenti
 
 ## Current Focus
 
-- `rill`: an ergonomic HTTP toolkit for building Zig services
 - local workflows around Codex and agent tooling
 - backend systems, native apps, and product infrastructure
+- practical developer tools that make engineering work easier to inspect and operate
 
 ## Selected Work
 
@@ -18,7 +18,7 @@ Most of my recent work lives in private repositories, so this profile is intenti
 
 ## Interests
 
-- TypeScript, Zig, Rust, Swift, and Python
+- TypeScript, Rust, Swift, and Python
 - HTTP services, agent runtimes, developer tools, and local-first workflows
 - clear interfaces, small abstractions, and systems that are easy to test and operate
 
