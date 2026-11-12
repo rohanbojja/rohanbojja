@@ -1,27 +1,14 @@
 # Rohan Bojja
 
-I build backend systems, developer tools, and AI-agent infrastructure.
+I’m a software engineer at Shiprocket. Outside work I build tools for the small things I catch myself doing over and over.
 
-Most of my recent work lives in private repositories, so this profile is intentionally small. The repos here are the public pieces I am comfortable pointing people to.
+- **Voboard** grew out of wanting to talk through a thought on my phone and turn it into a message. [Try the iPhone keyboard](https://apps.apple.com/in/app/voboard/id6808043923).
+- **Pith** keeps the commands, snippets and prompts I used to hunt for in old chats one shortcut away on my Mac. [See the launcher and install notes](https://rohanbojja.com/projects/pith/).
 
-## Current Focus
+## Open-source work
 
-- local workflows around Codex and agent tooling
-- backend systems, native apps, and product infrastructure
-- practical developer tools that make engineering work easier to inspect and operate
+- [fishex](https://github.com/rohanbojja/fishex) turns an inline Fish shell comment into a command rewrite.
+- [OttoBot](https://github.com/rohanbojja/ottobot) is an experimental coding-agent platform with persistent sessions and live VNC.
+- [codex-proxy](https://github.com/rohanbojja/codex-proxy) is a local proxy for experiments with the Responses API.
 
-## Selected Work
-
-- [fishex](https://github.com/rohanbojja/fishex) - Fish shell plugin that turns inline comments into Codex rewrite instructions.
-- [OttoBot](https://github.com/rohanbojja/ottobot) - Experimental coding-agent session platform with chat, persistent workspaces, and live VNC execution.
-- [codex-proxy](https://github.com/rohanbojja/codex-proxy) - Local integration proxy for OpenAI Responses API experiments.
-
-## Interests
-
-- TypeScript, Rust, Swift, and Python
-- HTTP services, agent runtimes, developer tools, and local-first workflows
-- clear interfaces, small abstractions, and systems that are easy to test and operate
-
-## Links
-
-- Website: [rohanbojja.com](https://rohanbojja.com)
+If you’ve tried a project or want to build something together, [get in touch](https://rohanbojja.com/contact/).
